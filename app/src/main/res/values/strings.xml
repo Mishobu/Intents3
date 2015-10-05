@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intents3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje1">Asi como los Intents sirven para arrancar otras actividades, tambieón pueden arrancar servicios.</string>
+    <string name="Mensaje2">A diferencia de las Actividades, un servicio ejecuta actividades concretas en segundo plano, y no tienen una representación visual de la interfaz de usuario.</string>
+    <string name="start">Arrancar Servicio</string>
+    <string name="stop">Detener Servicio</string>
+</resources>
